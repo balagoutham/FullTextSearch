@@ -1,0 +1,6 @@
+c:\users\rengarab\documents\visual studio 2013\Projects\FullTextSearch\FullTextSearch\bin\Debug\FullTextSearch.exe.config
+c:\users\rengarab\documents\visual studio 2013\Projects\FullTextSearch\FullTextSearch\bin\Debug\FullTextSearch.exe
+c:\users\rengarab\documents\visual studio 2013\Projects\FullTextSearch\FullTextSearch\bin\Debug\FullTextSearch.pdb
+c:\users\rengarab\documents\visual studio 2013\Projects\FullTextSearch\FullTextSearch\obj\Debug\FullTextSearch.csprojResolveAssemblyReference.cache
+c:\users\rengarab\documents\visual studio 2013\Projects\FullTextSearch\FullTextSearch\obj\Debug\FullTextSearch.exe
+c:\users\rengarab\documents\visual studio 2013\Projects\FullTextSearch\FullTextSearch\obj\Debug\FullTextSearch.pdb
